@@ -8,7 +8,7 @@ cinst googlechrome -fy
 cinst firefox -fy
 cinst vscode -fy
 cinst winrar -fy
-cinst nodejs.install
+cinst nodejs.install -fy
 cinst python3 -fy
 cinst steam -fy
 cinst brackets -fy
