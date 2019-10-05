@@ -25,6 +25,6 @@ cinst bitnami-xampp -fy
 cinst nodejs.install -fy
 cinst python3 -fy
 
-:: cinst OR choco install <package_name> repeats for all the packages you want to install
+:: cinst == choco install <package_name> repeats for all the packages you want to install (to find packages https://chocolatey.org/packages )
 
 exit
