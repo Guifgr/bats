@@ -1,4 +1,4 @@
-# chocolatey bat
+# Chocolatey bat
 Personal windows bat to install chocolatey and packages automatically 
 `Run as admin`
 ## You can always run powershell as admin: 
